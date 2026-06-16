@@ -18,8 +18,23 @@ END $$
 DELIMITER ;
 
 INSERT INTO employee_salary (employee_id, first_name, last_name, occupation, salary, dept_id)
-VALUES (13, 'John', 'Deh', 'GM', 100000, 4)
+VALUES (13, 'John', 'Deh', 'GM', 100000, 4);
 
 
 
 # EVENTS
+SELECT * 
+FROM employee_demographics;
+
+DELIMITER $$
+CREATE EVENT delete_retirees
+ON SCHEDULE EVERY 30 SECOND
+DO 
+BEGIN 
+	DELETE 
+    FROM employee_demographics
+    WHERE age > 60;
+END $$
+DELIMITER ;
+
+SHOW VARIABLES LIKE 'events%' ;
