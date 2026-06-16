@@ -1,5 +1,4 @@
 # TRIGGERS AND EVENTS
-
 SELECT * 
 FROM employee_demographics;
 
