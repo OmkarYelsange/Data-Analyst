@@ -1,1 +1,18 @@
 # PROJECT 1 -  DATA CLEANING
+# 1. REMOVE DUPLICATES
+# 2. STANDARDIZE THE DATA
+# 3. NULL VALUES OR BLANK VALUES
+# 4. REMOVE ANY COLUMN
+
+SELECT * 
+FROM layoffs;
+
+CREATE TABLE layoffs_staging
+LIKE layoffs;
+
+SELECT * 
+FROM layoffs_staging;
+
+INSERT layoffs_staging
+SELECT * 
+FROM layoffs;
