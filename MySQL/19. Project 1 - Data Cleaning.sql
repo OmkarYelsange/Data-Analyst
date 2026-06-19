@@ -37,6 +37,3 @@ SELECT *
 FROM duplicates_cte	
 WHERE row_num > 1;
 
-SELECT * 
-FROM layoffs_staging
-WHERE company = 'Cazoo';
