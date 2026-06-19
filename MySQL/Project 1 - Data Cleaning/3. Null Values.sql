@@ -1,0 +1,6 @@
+# PROJECT 1 -  DATA CLEANING
+# 3. NULL VALUES OR BLANK VALUES
+
+SELECT * 
+FROM layoffs_staging2
+WHERE total_laid_off = 0;
