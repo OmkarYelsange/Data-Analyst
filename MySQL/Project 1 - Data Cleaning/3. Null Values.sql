@@ -34,3 +34,17 @@ UPDATE layoffs_staging2
 SET funds_raised = 0  
 WHERE funds_raised = '';
 
+SELECT *
+FROM layoffs_staging2
+WHERE total_laid_off = 0
+AND percentage_laid_off = 0
+AND funds_raised = 0;
+
+DELETE
+FROM layoffs_staging2
+WHERE total_laid_off = 0
+AND percentage_laid_off = 0
+AND funds_raised = 0;
+
+SELECT *
+FROM layoffs_staging2;
