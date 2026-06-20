@@ -1,0 +1,8 @@
+# PROJECT 1 -  DATA CLEANING
+# 4. REMOVE ANY COLUMN OR COLUMN
+
+SELECT * 
+FROM layoffs_staging2;
+
+ALTER TABLE layoffs_staging2
+DROP COLUMN row_num;
