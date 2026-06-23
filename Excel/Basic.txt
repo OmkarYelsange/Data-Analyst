@@ -1,2 +1,4 @@
 1. Started with Pivot Table
 2. Completed Basic of Pivot Tables
+3. Formulae
+MIN, MAX, IF, IFS, LEFT, RIGHT, DATE TO TEXT, TRIM
