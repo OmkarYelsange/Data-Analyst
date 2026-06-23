@@ -15,4 +15,6 @@
         DAYS(END DATE, START DATE), NETWORKDAYS(END DATE, START DATE)
           
 # ADVANCED EXCEL
-1. XLOOKUP
+1. XLOOKUP() = XLOOKUP(lookup_value, lookup_array, return_array, 
+                [if not found], [match model], [search model])
+2.
