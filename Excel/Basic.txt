@@ -1,4 +1,14 @@
 1. Started with Pivot Table
 2. Completed Basic of Pivot Tables
 3. Formulae
-MIN, MAX, IF, IFS, LEFT, RIGHT, DATE TO TEXT, TRIM
+        MIN(C), MAX(C), 
+        IF(Logic,'Condition1/TRUE','Condition2/FALSE'), 
+        IFS(Logic,'Condition1/TRUE',..... ), LEN(C), 
+        LEFT(C), RIGHT(C), 
+        DATE TO TEXT(C,'dd/mm/yyyy'), 
+        TRIM(C), CONCATENATE(C1,'',C2)
+        SUBSITUTE(C,'-','/')
+          WITH 1 INSTANCE
+          WITH 2 INSTANCE
+        SUM(C), SUMIF(), SUMIFS()
+          
