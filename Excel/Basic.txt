@@ -1,1 +1,2 @@
 1. Started with Pivot Table
+2. Completed Basic of Pivot Tables
