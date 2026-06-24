@@ -39,4 +39,10 @@
 
 # DATA CLEANING IN EXCEL
 1. Data Tab - Remove Duplicates
-2. 
+2. Create Similar New Col for changes made in any Col
+3. Use Filter to Identify Duplicates
+4. Use TRIM to Remove extra spaces
+5. Store Raw Data and Perform Operation by making a Copy of it 
+6. Assign Proper Data Types as Number, Currency, Text, Date, etc
+7. Copy Data and Paste as Value to avoid Formula errors
+8. Delete Unnecessary Col
