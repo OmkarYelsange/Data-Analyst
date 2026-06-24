@@ -17,4 +17,4 @@
 # ADVANCED EXCEL
 1. XLOOKUP() = XLOOKUP(lookup_value, lookup_array, return_array, 
                 [if not found], [match model], [search model])
-2.
+2. SUM(XLOOKUP(),XLOOKUP())
