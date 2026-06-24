@@ -33,3 +33,6 @@
       Text_That_Contains
 
 2. Create New Rule - Remove the $ first, Apply, Then again write the Formula
+
+
+# CHARTS
