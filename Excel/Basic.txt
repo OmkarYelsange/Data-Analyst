@@ -38,3 +38,5 @@
 # CHARTS
 
 # DATA CLEANING IN EXCEL
+1. Data Tab - Remove Duplicates
+2. 
