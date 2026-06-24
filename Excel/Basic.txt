@@ -18,3 +18,5 @@
 1. XLOOKUP() = XLOOKUP(lookup_value, lookup_array, return_array, 
                 [if not found], [match model], [search model])
 2. SUM(XLOOKUP():XLOOKUP())
+
+3. VLOOKUP() = VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
