@@ -45,4 +45,4 @@
 5. Store Raw Data and Perform Operation by making a Copy of it 
 6. Assign Proper Data Types as Number, Currency, Text, Date, etc
 7. Copy Data and Paste as Value to avoid Formula errors
-8. Delete Unnecessary Col
+8. Delete Unnecessary Columns
