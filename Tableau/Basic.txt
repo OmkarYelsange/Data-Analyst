@@ -1,2 +1,5 @@
 # BINS & CALCULATED FIELDS
 1. Bins - Grouping or Ranges of Numerical values 
+2. Calculated Fields - Calculate Difference or Percentage etc
+
+
