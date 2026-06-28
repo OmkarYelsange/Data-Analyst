@@ -1,1 +1,2 @@
 # BINS & CALCULATED FIELDS
+1. Bins - Grouping or Ranges of Numerical values 
