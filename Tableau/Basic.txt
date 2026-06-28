@@ -4,4 +4,6 @@
 
 
 # GRAPHS & CHARTS
-1. 
+1. Scatter Plots 
+2. Density Maps
+
