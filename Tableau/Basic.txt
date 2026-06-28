@@ -7,3 +7,6 @@
 1. Scatter Plots 
 2. Density Maps
 
+
+# JOINS IN TABLEAU
+
