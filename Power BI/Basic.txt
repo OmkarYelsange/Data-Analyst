@@ -5,3 +5,4 @@
 3. DAX - Data Analysis Expression
 4. Drill Down 
 5. Conditional Formatting 
+6. Bins & Lists
