@@ -1,0 +1,5 @@
+# BASICS 
+1. Data Types - int, float, complex, bool, str ('',"",""" Multiple Lines """)  
+2. list[] - list.append('Value'),
+            list[index] = 'Value',
+            
