@@ -30,3 +30,8 @@
                 # Upadte - A.update({dist})
                 # Delete - del A['Key']
 
+
+# Comparsion Operators -> ==, !=, >, <, >=, <=
+# Membership Operators -> in , not in
+
+# if-elif-else Statements
