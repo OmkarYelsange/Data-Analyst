@@ -43,3 +43,13 @@
 # While else Loop
 
 # Functions
+# Arbitary Functions - def number_args(*args):
+                      def number_args(*number):
+                      Ex - def number_args(*number):
+                              print(number[0]*number[1])
+
+                      Call - number_args(5, 6, 4, 2, 1)
+                      Output - 30
+
+# Keyword Arguments 
+# Arbitary Keyword Argumentss 
