@@ -39,4 +39,7 @@
 # For Loop
 # Nested For Loop
 
-# While Loop
+# While Loop - break, continue
+# While else Loop
+
+# Functions
