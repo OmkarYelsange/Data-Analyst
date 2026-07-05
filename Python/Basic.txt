@@ -51,5 +51,12 @@
                       Call - number_args(5, 6, 4, 2, 1)
                       Output - 30
 
-# Keyword Arguments 
-# Arbitary Keyword Argumentss 
+# Keyword Arguments - No of Arguments are known
+                      Ex - def Square_fun(num, power):
+                              print(num**power)
+                      Output - 125
+
+                      Call - Square_fun(power = 5, num = 3)
+                      Output - 243
+
+# Arbitary Keyword Arguments - No of Arguments are Unknown 
