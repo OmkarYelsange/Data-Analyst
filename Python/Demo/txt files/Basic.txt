@@ -1,0 +1,48 @@
+1. Started with Pivot Table
+2. Completed Basic of Pivot Tables
+3. Formulae
+        MIN(C), MAX(C), 
+        IF(Logic,'Condition1/TRUE','Condition2/FALSE'), 
+        IFS(Logic,'Condition1/TRUE',..... ), LEN(C), 
+        LEFT(C), RIGHT(C), 
+        DATE TO TEXT(C,'dd/mm/yyyy'), 
+        TRIM(C), CONCATENATE(C1,'',C2)
+        SUBSITUTE(C,'-','/')
+          WITH 1 INSTANCE
+          WITH 2 INSTANCE
+        SUM(C), SUMIF(C,'CONDITION'), SUMIFS(C,'CONDITION1', C, 'CONDITION2',..)
+        COUNT(C), COUNTIF(C,'CONDITION'), COUNTIFS(C,'CONDITION',...)
+        DAYS(END DATE, START DATE), NETWORKDAYS(END DATE, START DATE)
+          
+
+# ADVANCED EXCEL
+1. XLOOKUP() = XLOOKUP(lookup_value, lookup_array, return_array, 
+                [if not found], [match model], [search model])
+2. SUM(XLOOKUP():XLOOKUP())
+
+3. VLOOKUP() = VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+
+* XLOOKUP IS USED FOR AUTOMATION IF DATA CHANGED OR UPDATED IT AUTOMATICALLY ADJUST THE FORMULA
+* VLOOKUP IS USED WITH ENTIRE TABLE AND NOT ADJUST THE FORMULA AUTOMATICALLY
+
+
+# CONDITIONAL FORMATTING
+1. IMP -
+      HIGHLIGHT CELLS RULES 
+      Duplicate_Values
+      Text_That_Contains
+
+2. Create New Rule - Remove the $ first, Apply, Then again write the Formula
+
+
+# CHARTS
+
+# DATA CLEANING IN EXCEL
+1. Data Tab - Remove Duplicates
+2. Create Similar New Col for changes made in any Col
+3. Use Filter to Identify Duplicates
+4. Use TRIM to Remove extra spaces
+5. Store Raw Data and Perform Operation by making a Copy of it 
+6. Assign Proper Data Types as Number, Currency, Text, Date, etc
+7. Copy Data and Paste as Value to avoid Formula errors
+8. Delete Unnecessary Columns
