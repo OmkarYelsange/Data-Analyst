@@ -64,8 +64,10 @@
 
 # Converting Data Types
 
-# Automatic File Sorter in File Explorer
-# Python Web Scraping
-# BeautifulSoup & Request
-# Find & Find_all
-# Scraping Data From a Real Website + Pandas 
+# Automatic File Sorter in File Explorer.
+# Python Web Scraping.
+# BeautifulSoup & Request.
+# Find & Find_all.
+# Scraping Data From a Real Website + Pandas.
+
+# Continuing with the Project 
