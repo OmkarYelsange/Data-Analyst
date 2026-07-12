@@ -69,5 +69,4 @@
 # BeautifulSoup & Request.
 # Find & Find_all.
 # Scraping Data From a Real Website + Pandas.
-
 # Continuing with the Project 
