@@ -69,8 +69,6 @@
 # BeautifulSoup & Request.
 # Find & Find_all.
 # Scraping Data From a Real Website + Pandas.
-<<<<<<< HEAD
-# Continuing with the Project 
-=======
-# Solving Error while Fetching Dataset.
->>>>>>> 85f55bbdbc9e8ea3dc3179053da3998642dbc27b
+# Continuing with the Project.
+
+# Pandas 
