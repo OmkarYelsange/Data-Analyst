@@ -27,7 +27,7 @@ This repository is updated regularly with:
 - Learning Notes
 - Practice Exercises
 - SQL Queries
-- Python Programs
+- Python Programming 
 - Mini Projects
 - Data Analysis Projects
 - Dashboard Projects
