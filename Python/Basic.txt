@@ -69,6 +69,7 @@
 # BeautifulSoup & Request.
 # Find & Find_all.
 # Scraping Data From a Real Website + Pandas.
+# Learning and Implementing Pandas.
 
 
 
