@@ -1,4 +1,4 @@
-﻿# 📊 Data Analytics Learning Journey
+﻿# 📊 Data Analytics Learning Journey 
 
 Welcome to my Data Analytics repository!
 
@@ -34,4 +34,4 @@ This repository is updated regularly with:
 
 ---
 
-⭐ Follow my journey as I learn, build, and grow in the field of Data Analytics.
+⭐ Follow my journey as I learn, build, and grow in the field of Data Analytics.
