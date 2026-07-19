@@ -72,5 +72,9 @@
 # Learning and Implementing Pandas.
 
 
+# Pandas
+1. Reading Files 
+2. Filtering & Ordering Data 
+
 
 
