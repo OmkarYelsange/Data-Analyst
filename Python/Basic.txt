@@ -80,5 +80,6 @@
 
 # AWS
 1. S3 Bucket
+2. AWS Anthena
 
 
