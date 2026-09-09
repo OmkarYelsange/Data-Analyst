@@ -1,4 +1,5 @@
 -- 🟠 LEVEL 3 — JOINs
+USE practice_sql;
 -- Q21 Display:
 -- order_id
 -- customer_name
@@ -97,18 +98,40 @@ GROUP BY c.city;
 
 -- Q27 Find total sales by product category.
 SELECT p.category,
-o.order_status,
-o.order_amount
+SUM(o.order_amount) AS total_sales
 FROM products AS p
+JOIN order_items AS ot
+ON p.product_id = ot.product_id
 JOIN orders AS o
-ON p.
-
+ON ot.order_id = o.order_id
+WHERE o.order_status = "Delivered"
+GROUP BY p.category;
 
 -- Q28 Find the number of orders for every customer, including customers who have placed zero orders.
 -- This should make you think about:
 -- LEFT JOIN
+SELECT c.customer_id,
+c.customer_name,
+COUNT(o.order_id)
+FROM customers AS c
+LEFT JOIN orders AS o
+ON c.customer_id = o.customer_id
+GROUP BY c.customer_id,
+c.customer_name;
 
 -- Q29 Find customers who have never placed an order.
 -- This is a very common interview question.
+SELECT c.customer_id,
+c.customer_name
+FROM customers AS c
+LEFT JOIN orders AS o
+ON c.customer_id = o.customer_id
+WHERE o.order_id IS NULL;
 
 -- Q30 Find products that have never been ordered.
+SELECT p.product_id,
+p.product_name
+FROM products AS p
+LEFT JOIN order_items AS oi
+ON p.product_id = oi.product_id
+WHERE oi.product_id IS NULL;
