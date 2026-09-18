@@ -22,7 +22,11 @@ GROUP BY customer_id;
 
 -- Q40 Find the second-highest product price.
 SELECT MAX(price) FROM products
-WHERE price < ( SELECT MAX(price) FROM products )
+WHERE price < ( SELECT MAX(price) FROM products );
 
 -- Q41 Find products that have a price greater than the average price of their category.
 -- This is significantly more interview-oriented.
+SELECT * FROM products p
+WHERE p.price > ( 
+SELECT AVG(price) FROM products p2 
+WHERE p2.category = p.category);
