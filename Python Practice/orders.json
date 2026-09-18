@@ -1,0 +1,2217 @@
+[
+  {
+    "order_id": 1,
+    "customer_id": 72,
+    "order_date": "2025-04-16",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "495248"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 1,
+        "unit_price": 12413
+      },
+      {
+        "product": "Tablet",
+        "quantity": 3,
+        "unit_price": 67128
+      }
+    ]
+  },
+  {
+    "order_id": 2,
+    "customer_id": 43,
+    "order_date": "2025-10-14",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Chennai",
+      "pincode": "572272"
+    },
+    "items": [
+      {
+        "product": "Tablet",
+        "quantity": 2,
+        "unit_price": 60066
+      }
+    ]
+  },
+  {
+    "order_id": 3,
+    "customer_id": 44,
+    "order_date": "2025-07-01",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Delhi",
+      "pincode": "536835"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 4,
+        "unit_price": 15445
+      },
+      {
+        "product": "Laptop",
+        "quantity": 2,
+        "unit_price": 787
+      }
+    ]
+  },
+  {
+    "order_id": 4,
+    "customer_id": 92,
+    "order_date": "2025-07-29",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "560131"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 1,
+        "unit_price": 6500
+      },
+      {
+        "product": "Phone",
+        "quantity": 4,
+        "unit_price": 18908
+      }
+    ]
+  },
+  {
+    "order_id": 5,
+    "customer_id": 28,
+    "order_date": "2025-08-23",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Chennai",
+      "pincode": "488587"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 1,
+        "unit_price": 51997
+      }
+    ]
+  },
+  {
+    "order_id": 6,
+    "customer_id": 82,
+    "order_date": "2025-12-11",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "518097"
+    },
+    "items": [
+      {
+        "product": "Tablet",
+        "quantity": 4,
+        "unit_price": 6594
+      }
+    ]
+  },
+  {
+    "order_id": 7,
+    "customer_id": 56,
+    "order_date": "2025-10-27",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Delhi",
+      "pincode": "446452"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 2,
+        "unit_price": 65882
+      },
+      {
+        "product": "Laptop",
+        "quantity": 1,
+        "unit_price": 73012
+      }
+    ]
+  },
+  {
+    "order_id": 8,
+    "customer_id": 50,
+    "order_date": "2025-08-03",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "504299"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 2,
+        "unit_price": 96247
+      },
+      {
+        "product": "Tablet",
+        "quantity": 2,
+        "unit_price": 14073
+      },
+      {
+        "product": "Monitor",
+        "quantity": 3,
+        "unit_price": 66574
+      }
+    ]
+  },
+  {
+    "order_id": 9,
+    "customer_id": 90,
+    "order_date": "2025-09-20",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "583892"
+    },
+    "items": [
+      {
+        "product": "Headphones",
+        "quantity": 4,
+        "unit_price": 17981
+      },
+      {
+        "product": "Phone",
+        "quantity": 4,
+        "unit_price": 79474
+      }
+    ]
+  },
+  {
+    "order_id": 10,
+    "customer_id": 45,
+    "order_date": "2025-12-11",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Chennai",
+      "pincode": "570416"
+    },
+    "items": [
+      {
+        "product": "Tablet",
+        "quantity": 3,
+        "unit_price": 93806
+      },
+      {
+        "product": "Mouse",
+        "quantity": 2,
+        "unit_price": 26830
+      },
+      {
+        "product": "Phone",
+        "quantity": 3,
+        "unit_price": 90495
+      }
+    ]
+  },
+  {
+    "order_id": 11,
+    "customer_id": 15,
+    "order_date": "2025-06-30",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Delhi",
+      "pincode": "549589"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 3,
+        "unit_price": 93607
+      }
+    ]
+  },
+  {
+    "order_id": 12,
+    "customer_id": 14,
+    "order_date": "2025-01-13",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "413910"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 4,
+        "unit_price": 88874
+      },
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 55863
+      },
+      {
+        "product": "Tablet",
+        "quantity": 1,
+        "unit_price": 69015
+      }
+    ]
+  },
+  {
+    "order_id": 13,
+    "customer_id": 8,
+    "order_date": "2025-12-20",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "597550"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 2,
+        "unit_price": 35493
+      },
+      {
+        "product": "Tablet",
+        "quantity": 2,
+        "unit_price": 38067
+      },
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 19692
+      }
+    ]
+  },
+  {
+    "order_id": 14,
+    "customer_id": 66,
+    "order_date": "2025-12-23",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Chennai",
+      "pincode": "574193"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 3,
+        "unit_price": 59822
+      },
+      {
+        "product": "Laptop",
+        "quantity": 2,
+        "unit_price": 97809
+      },
+      {
+        "product": "Mouse",
+        "quantity": 4,
+        "unit_price": 31642
+      }
+    ]
+  },
+  {
+    "order_id": 15,
+    "customer_id": 88,
+    "order_date": "2025-06-10",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Pune",
+      "pincode": "594948"
+    },
+    "items": [
+      {
+        "product": "Monitor",
+        "quantity": 4,
+        "unit_price": 55100
+      }
+    ]
+  },
+  {
+    "order_id": 16,
+    "customer_id": 76,
+    "order_date": "2025-10-07",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "590031"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 4,
+        "unit_price": 30063
+      },
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 99473
+      }
+    ]
+  },
+  {
+    "order_id": 17,
+    "customer_id": 88,
+    "order_date": "2025-02-08",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "592696"
+    },
+    "items": [
+      {
+        "product": "Headphones",
+        "quantity": 4,
+        "unit_price": 23755
+      }
+    ]
+  },
+  {
+    "order_id": 18,
+    "customer_id": 75,
+    "order_date": "2025-05-11",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "522245"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 4,
+        "unit_price": 5826
+      },
+      {
+        "product": "Monitor",
+        "quantity": 3,
+        "unit_price": 73454
+      },
+      {
+        "product": "Headphones",
+        "quantity": 2,
+        "unit_price": 21593
+      }
+    ]
+  },
+  {
+    "order_id": 19,
+    "customer_id": 74,
+    "order_date": "2025-10-09",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Pune",
+      "pincode": "585514"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 1,
+        "unit_price": 20646
+      },
+      {
+        "product": "Headphones",
+        "quantity": 1,
+        "unit_price": 82468
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 3,
+        "unit_price": 64797
+      }
+    ]
+  },
+  {
+    "order_id": 20,
+    "customer_id": 21,
+    "order_date": "2025-08-01",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Pune",
+      "pincode": "491593"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 2,
+        "unit_price": 24600
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 1,
+        "unit_price": 66709
+      }
+    ]
+  },
+  {
+    "order_id": 21,
+    "customer_id": 47,
+    "order_date": "2025-05-31",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "562078"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 3,
+        "unit_price": 43893
+      }
+    ]
+  },
+  {
+    "order_id": 22,
+    "customer_id": 88,
+    "order_date": "2025-06-14",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "429720"
+    },
+    "items": [
+      {
+        "product": "Monitor",
+        "quantity": 1,
+        "unit_price": 15536
+      },
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 58914
+      },
+      {
+        "product": "Phone",
+        "quantity": 2,
+        "unit_price": 5726
+      }
+    ]
+  },
+  {
+    "order_id": 23,
+    "customer_id": 66,
+    "order_date": "2025-08-17",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Pune",
+      "pincode": "477708"
+    },
+    "items": [
+      {
+        "product": "Headphones",
+        "quantity": 3,
+        "unit_price": 3738
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 3,
+        "unit_price": 67911
+      }
+    ]
+  },
+  {
+    "order_id": 24,
+    "customer_id": 9,
+    "order_date": "2025-04-18",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "579674"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 3,
+        "unit_price": 67857
+      },
+      {
+        "product": "Laptop",
+        "quantity": 1,
+        "unit_price": 22440
+      },
+      {
+        "product": "Tablet",
+        "quantity": 1,
+        "unit_price": 82673
+      }
+    ]
+  },
+  {
+    "order_id": 25,
+    "customer_id": 10,
+    "order_date": "2025-12-18",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Pune",
+      "pincode": "520383"
+    },
+    "items": [
+      {
+        "product": "Tablet",
+        "quantity": 1,
+        "unit_price": 27445
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 4,
+        "unit_price": 85246
+      }
+    ]
+  },
+  {
+    "order_id": 26,
+    "customer_id": 10,
+    "order_date": "2025-10-22",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "506858"
+    },
+    "items": [
+      {
+        "product": "Headphones",
+        "quantity": 1,
+        "unit_price": 11971
+      },
+      {
+        "product": "Laptop",
+        "quantity": 1,
+        "unit_price": 23829
+      },
+      {
+        "product": "Tablet",
+        "quantity": 3,
+        "unit_price": 73649
+      }
+    ]
+  },
+  {
+    "order_id": 27,
+    "customer_id": 87,
+    "order_date": "2025-03-02",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Chennai",
+      "pincode": "588818"
+    },
+    "items": [
+      {
+        "product": "Monitor",
+        "quantity": 4,
+        "unit_price": 57257
+      },
+      {
+        "product": "Headphones",
+        "quantity": 1,
+        "unit_price": 51552
+      }
+    ]
+  },
+  {
+    "order_id": 28,
+    "customer_id": 88,
+    "order_date": "2025-06-04",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "514734"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 1,
+        "unit_price": 92366
+      },
+      {
+        "product": "Tablet",
+        "quantity": 1,
+        "unit_price": 47384
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 1,
+        "unit_price": 38489
+      }
+    ]
+  },
+  {
+    "order_id": 29,
+    "customer_id": 96,
+    "order_date": "2025-07-20",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Chennai",
+      "pincode": "437768"
+    },
+    "items": [
+      {
+        "product": "Monitor",
+        "quantity": 1,
+        "unit_price": 62626
+      },
+      {
+        "product": "Phone",
+        "quantity": 2,
+        "unit_price": 18375
+      }
+    ]
+  },
+  {
+    "order_id": 30,
+    "customer_id": 6,
+    "order_date": "2025-01-03",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Delhi",
+      "pincode": "543530"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 1961
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 2,
+        "unit_price": 16652
+      }
+    ]
+  },
+  {
+    "order_id": 31,
+    "customer_id": 95,
+    "order_date": "2025-06-26",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Hyderabad",
+      "pincode": "569327"
+    },
+    "items": [
+      {
+        "product": "Headphones",
+        "quantity": 2,
+        "unit_price": 98580
+      }
+    ]
+  },
+  {
+    "order_id": 32,
+    "customer_id": 73,
+    "order_date": "2025-01-28",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Chennai",
+      "pincode": "544091"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 2,
+        "unit_price": 24616
+      },
+      {
+        "product": "Phone",
+        "quantity": 3,
+        "unit_price": 25970
+      },
+      {
+        "product": "Laptop",
+        "quantity": 2,
+        "unit_price": 88446
+      }
+    ]
+  },
+  {
+    "order_id": 33,
+    "customer_id": 13,
+    "order_date": "2025-04-12",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "493621"
+    },
+    "items": [
+      {
+        "product": "Headphones",
+        "quantity": 1,
+        "unit_price": 33358
+      }
+    ]
+  },
+  {
+    "order_id": 34,
+    "customer_id": 37,
+    "order_date": "2025-11-14",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "483305"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 2,
+        "unit_price": 13613
+      }
+    ]
+  },
+  {
+    "order_id": 35,
+    "customer_id": 75,
+    "order_date": "2025-03-20",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "482924"
+    },
+    "items": [
+      {
+        "product": "Monitor",
+        "quantity": 3,
+        "unit_price": 81285
+      },
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 91392
+      }
+    ]
+  },
+  {
+    "order_id": 36,
+    "customer_id": 95,
+    "order_date": "2025-11-25",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "494237"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 1,
+        "unit_price": 41553
+      },
+      {
+        "product": "Phone",
+        "quantity": 2,
+        "unit_price": 93849
+      }
+    ]
+  },
+  {
+    "order_id": 37,
+    "customer_id": 60,
+    "order_date": "2025-08-17",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "480077"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 63408
+      }
+    ]
+  },
+  {
+    "order_id": 38,
+    "customer_id": 18,
+    "order_date": "2025-10-03",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "592294"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 1,
+        "unit_price": 23538
+      },
+      {
+        "product": "Mouse",
+        "quantity": 1,
+        "unit_price": 37280
+      }
+    ]
+  },
+  {
+    "order_id": 39,
+    "customer_id": 28,
+    "order_date": "2025-01-19",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Delhi",
+      "pincode": "541473"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 1,
+        "unit_price": 2941
+      },
+      {
+        "product": "Tablet",
+        "quantity": 1,
+        "unit_price": 76769
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 4,
+        "unit_price": 77837
+      }
+    ]
+  },
+  {
+    "order_id": 40,
+    "customer_id": 94,
+    "order_date": "2025-05-29",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Hyderabad",
+      "pincode": "531366"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 2,
+        "unit_price": 48448
+      },
+      {
+        "product": "Monitor",
+        "quantity": 2,
+        "unit_price": 77780
+      }
+    ]
+  },
+  {
+    "order_id": 41,
+    "customer_id": 66,
+    "order_date": "2025-03-13",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "446961"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 4,
+        "unit_price": 48192
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 1,
+        "unit_price": 87358
+      },
+      {
+        "product": "Phone",
+        "quantity": 2,
+        "unit_price": 99748
+      }
+    ]
+  },
+  {
+    "order_id": 42,
+    "customer_id": 30,
+    "order_date": "2025-02-02",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "461346"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 2,
+        "unit_price": 96958
+      },
+      {
+        "product": "Mouse",
+        "quantity": 4,
+        "unit_price": 47528
+      },
+      {
+        "product": "Laptop",
+        "quantity": 2,
+        "unit_price": 64416
+      }
+    ]
+  },
+  {
+    "order_id": 43,
+    "customer_id": 47,
+    "order_date": "2025-07-18",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Hyderabad",
+      "pincode": "412173"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 2,
+        "unit_price": 68380
+      }
+    ]
+  },
+  {
+    "order_id": 44,
+    "customer_id": 91,
+    "order_date": "2025-09-24",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "594487"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 14029
+      }
+    ]
+  },
+  {
+    "order_id": 45,
+    "customer_id": 76,
+    "order_date": "2025-12-01",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Delhi",
+      "pincode": "465951"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 2,
+        "unit_price": 49869
+      },
+      {
+        "product": "Mouse",
+        "quantity": 4,
+        "unit_price": 48380
+      }
+    ]
+  },
+  {
+    "order_id": 46,
+    "customer_id": 62,
+    "order_date": "2025-11-06",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Delhi",
+      "pincode": "436429"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 4,
+        "unit_price": 46755
+      },
+      {
+        "product": "Tablet",
+        "quantity": 3,
+        "unit_price": 64313
+      }
+    ]
+  },
+  {
+    "order_id": 47,
+    "customer_id": 20,
+    "order_date": "2025-04-06",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "557816"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 2,
+        "unit_price": 10604
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 3,
+        "unit_price": 28223
+      }
+    ]
+  },
+  {
+    "order_id": 48,
+    "customer_id": 87,
+    "order_date": "2025-09-03",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "554872"
+    },
+    "items": [
+      {
+        "product": "Tablet",
+        "quantity": 1,
+        "unit_price": 87152
+      },
+      {
+        "product": "Phone",
+        "quantity": 4,
+        "unit_price": 43783
+      },
+      {
+        "product": "Mouse",
+        "quantity": 1,
+        "unit_price": 63613
+      }
+    ]
+  },
+  {
+    "order_id": 49,
+    "customer_id": 32,
+    "order_date": "2025-01-23",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Delhi",
+      "pincode": "555280"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 4,
+        "unit_price": 3442
+      }
+    ]
+  },
+  {
+    "order_id": 50,
+    "customer_id": 19,
+    "order_date": "2025-01-29",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "447195"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 1,
+        "unit_price": 75508
+      }
+    ]
+  },
+  {
+    "order_id": 51,
+    "customer_id": 61,
+    "order_date": "2025-09-04",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "507680"
+    },
+    "items": [
+      {
+        "product": "Monitor",
+        "quantity": 1,
+        "unit_price": 94812
+      },
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 11739
+      },
+      {
+        "product": "Phone",
+        "quantity": 4,
+        "unit_price": 79998
+      }
+    ]
+  },
+  {
+    "order_id": 52,
+    "customer_id": 77,
+    "order_date": "2025-10-30",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "499145"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 2,
+        "unit_price": 82185
+      },
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 22483
+      },
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 59937
+      }
+    ]
+  },
+  {
+    "order_id": 53,
+    "customer_id": 78,
+    "order_date": "2025-02-19",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Hyderabad",
+      "pincode": "561152"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 1,
+        "unit_price": 2670
+      },
+      {
+        "product": "Phone",
+        "quantity": 4,
+        "unit_price": 20103
+      }
+    ]
+  },
+  {
+    "order_id": 54,
+    "customer_id": 84,
+    "order_date": "2025-08-09",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "411387"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 1,
+        "unit_price": 12714
+      },
+      {
+        "product": "Monitor",
+        "quantity": 2,
+        "unit_price": 79598
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 1,
+        "unit_price": 89440
+      }
+    ]
+  },
+  {
+    "order_id": 55,
+    "customer_id": 18,
+    "order_date": "2025-05-11",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "460951"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 4,
+        "unit_price": 30579
+      },
+      {
+        "product": "Tablet",
+        "quantity": 4,
+        "unit_price": 50469
+      },
+      {
+        "product": "Headphones",
+        "quantity": 1,
+        "unit_price": 56269
+      }
+    ]
+  },
+  {
+    "order_id": 56,
+    "customer_id": 25,
+    "order_date": "2025-01-03",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Delhi",
+      "pincode": "536980"
+    },
+    "items": [
+      {
+        "product": "Headphones",
+        "quantity": 4,
+        "unit_price": 34291
+      }
+    ]
+  },
+  {
+    "order_id": 57,
+    "customer_id": 84,
+    "order_date": "2025-04-16",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Hyderabad",
+      "pincode": "494966"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 1,
+        "unit_price": 49655
+      }
+    ]
+  },
+  {
+    "order_id": 58,
+    "customer_id": 75,
+    "order_date": "2025-05-10",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "540536"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 4,
+        "unit_price": 85903
+      }
+    ]
+  },
+  {
+    "order_id": 59,
+    "customer_id": 27,
+    "order_date": "2025-07-31",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "497049"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 3,
+        "unit_price": 80700
+      },
+      {
+        "product": "Headphones",
+        "quantity": 4,
+        "unit_price": 99455
+      }
+    ]
+  },
+  {
+    "order_id": 60,
+    "customer_id": 16,
+    "order_date": "2025-04-28",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "583320"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 4,
+        "unit_price": 33763
+      },
+      {
+        "product": "Headphones",
+        "quantity": 3,
+        "unit_price": 92970
+      },
+      {
+        "product": "Monitor",
+        "quantity": 2,
+        "unit_price": 86913
+      }
+    ]
+  },
+  {
+    "order_id": 61,
+    "customer_id": 52,
+    "order_date": "2025-06-23",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "502001"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 2,
+        "unit_price": 67129
+      }
+    ]
+  },
+  {
+    "order_id": 62,
+    "customer_id": 48,
+    "order_date": "2025-02-10",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Chennai",
+      "pincode": "500748"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 1,
+        "unit_price": 19548
+      },
+      {
+        "product": "Monitor",
+        "quantity": 4,
+        "unit_price": 12052
+      },
+      {
+        "product": "Laptop",
+        "quantity": 3,
+        "unit_price": 29567
+      }
+    ]
+  },
+  {
+    "order_id": 63,
+    "customer_id": 82,
+    "order_date": "2025-09-11",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Pune",
+      "pincode": "452876"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 3,
+        "unit_price": 93771
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 1,
+        "unit_price": 23473
+      }
+    ]
+  },
+  {
+    "order_id": 64,
+    "customer_id": 31,
+    "order_date": "2025-12-02",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "422765"
+    },
+    "items": [
+      {
+        "product": "Tablet",
+        "quantity": 3,
+        "unit_price": 26025
+      },
+      {
+        "product": "Laptop",
+        "quantity": 2,
+        "unit_price": 81134
+      },
+      {
+        "product": "Phone",
+        "quantity": 1,
+        "unit_price": 47651
+      }
+    ]
+  },
+  {
+    "order_id": 65,
+    "customer_id": 76,
+    "order_date": "2025-04-13",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Chennai",
+      "pincode": "584450"
+    },
+    "items": [
+      {
+        "product": "Tablet",
+        "quantity": 4,
+        "unit_price": 46785
+      },
+      {
+        "product": "Mouse",
+        "quantity": 4,
+        "unit_price": 53643
+      }
+    ]
+  },
+  {
+    "order_id": 66,
+    "customer_id": 72,
+    "order_date": "2025-10-26",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "472484"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 3,
+        "unit_price": 95676
+      }
+    ]
+  },
+  {
+    "order_id": 67,
+    "customer_id": 52,
+    "order_date": "2025-10-22",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "445884"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 2,
+        "unit_price": 60106
+      }
+    ]
+  },
+  {
+    "order_id": 68,
+    "customer_id": 15,
+    "order_date": "2025-09-20",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Delhi",
+      "pincode": "550704"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 1,
+        "unit_price": 73720
+      },
+      {
+        "product": "Laptop",
+        "quantity": 3,
+        "unit_price": 45060
+      }
+    ]
+  },
+  {
+    "order_id": 69,
+    "customer_id": 97,
+    "order_date": "2025-06-23",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Chennai",
+      "pincode": "520775"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 4,
+        "unit_price": 49924
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 4,
+        "unit_price": 32386
+      }
+    ]
+  },
+  {
+    "order_id": 70,
+    "customer_id": 90,
+    "order_date": "2025-04-28",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Hyderabad",
+      "pincode": "492562"
+    },
+    "items": [
+      {
+        "product": "Tablet",
+        "quantity": 1,
+        "unit_price": 63672
+      },
+      {
+        "product": "Laptop",
+        "quantity": 3,
+        "unit_price": 9354
+      },
+      {
+        "product": "Monitor",
+        "quantity": 2,
+        "unit_price": 89224
+      }
+    ]
+  },
+  {
+    "order_id": 71,
+    "customer_id": 87,
+    "order_date": "2025-06-25",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Delhi",
+      "pincode": "446788"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 1,
+        "unit_price": 92357
+      },
+      {
+        "product": "Tablet",
+        "quantity": 3,
+        "unit_price": 33039
+      },
+      {
+        "product": "Headphones",
+        "quantity": 1,
+        "unit_price": 52788
+      }
+    ]
+  },
+  {
+    "order_id": 72,
+    "customer_id": 96,
+    "order_date": "2025-12-16",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Hyderabad",
+      "pincode": "593229"
+    },
+    "items": [
+      {
+        "product": "Headphones",
+        "quantity": 3,
+        "unit_price": 29147
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 3,
+        "unit_price": 24457
+      }
+    ]
+  },
+  {
+    "order_id": 73,
+    "customer_id": 27,
+    "order_date": "2025-04-28",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "465456"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 2,
+        "unit_price": 35287
+      }
+    ]
+  },
+  {
+    "order_id": 74,
+    "customer_id": 1,
+    "order_date": "2025-10-05",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "526429"
+    },
+    "items": [
+      {
+        "product": "Headphones",
+        "quantity": 2,
+        "unit_price": 14483
+      },
+      {
+        "product": "Laptop",
+        "quantity": 1,
+        "unit_price": 89080
+      },
+      {
+        "product": "Mouse",
+        "quantity": 4,
+        "unit_price": 80955
+      }
+    ]
+  },
+  {
+    "order_id": 75,
+    "customer_id": 24,
+    "order_date": "2025-09-19",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Hyderabad",
+      "pincode": "458220"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 3,
+        "unit_price": 65032
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 3,
+        "unit_price": 64830
+      }
+    ]
+  },
+  {
+    "order_id": 76,
+    "customer_id": 45,
+    "order_date": "2025-07-21",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Hyderabad",
+      "pincode": "431553"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 1,
+        "unit_price": 69409
+      },
+      {
+        "product": "Tablet",
+        "quantity": 4,
+        "unit_price": 63194
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 1,
+        "unit_price": 66360
+      }
+    ]
+  },
+  {
+    "order_id": 77,
+    "customer_id": 75,
+    "order_date": "2025-02-21",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "560636"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 4,
+        "unit_price": 41873
+      },
+      {
+        "product": "Mouse",
+        "quantity": 1,
+        "unit_price": 2049
+      },
+      {
+        "product": "Mouse",
+        "quantity": 2,
+        "unit_price": 50232
+      }
+    ]
+  },
+  {
+    "order_id": 78,
+    "customer_id": 44,
+    "order_date": "2025-07-07",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Hyderabad",
+      "pincode": "511134"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 3,
+        "unit_price": 31582
+      },
+      {
+        "product": "Headphones",
+        "quantity": 4,
+        "unit_price": 80858
+      }
+    ]
+  },
+  {
+    "order_id": 79,
+    "customer_id": 52,
+    "order_date": "2025-05-24",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "549791"
+    },
+    "items": [
+      {
+        "product": "Monitor",
+        "quantity": 3,
+        "unit_price": 48351
+      }
+    ]
+  },
+  {
+    "order_id": 80,
+    "customer_id": 93,
+    "order_date": "2025-05-19",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Delhi",
+      "pincode": "513303"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 2,
+        "unit_price": 13590
+      }
+    ]
+  },
+  {
+    "order_id": 81,
+    "customer_id": 23,
+    "order_date": "2025-08-04",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "565321"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 2,
+        "unit_price": 97302
+      },
+      {
+        "product": "Phone",
+        "quantity": 4,
+        "unit_price": 1776
+      }
+    ]
+  },
+  {
+    "order_id": 82,
+    "customer_id": 13,
+    "order_date": "2025-12-20",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Pune",
+      "pincode": "456483"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 3,
+        "unit_price": 64282
+      },
+      {
+        "product": "Headphones",
+        "quantity": 3,
+        "unit_price": 74180
+      },
+      {
+        "product": "Tablet",
+        "quantity": 1,
+        "unit_price": 52719
+      }
+    ]
+  },
+  {
+    "order_id": 83,
+    "customer_id": 47,
+    "order_date": "2025-07-04",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "405199"
+    },
+    "items": [
+      {
+        "product": "Monitor",
+        "quantity": 1,
+        "unit_price": 59463
+      },
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 34548
+      }
+    ]
+  },
+  {
+    "order_id": 84,
+    "customer_id": 74,
+    "order_date": "2025-11-29",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "474608"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 3,
+        "unit_price": 89574
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 2,
+        "unit_price": 76109
+      }
+    ]
+  },
+  {
+    "order_id": 85,
+    "customer_id": 79,
+    "order_date": "2025-05-27",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Chennai",
+      "pincode": "437971"
+    },
+    "items": [
+      {
+        "product": "Headphones",
+        "quantity": 4,
+        "unit_price": 97037
+      },
+      {
+        "product": "Monitor",
+        "quantity": 1,
+        "unit_price": 50447
+      }
+    ]
+  },
+  {
+    "order_id": 86,
+    "customer_id": 81,
+    "order_date": "2025-11-10",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "418702"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 55788
+      }
+    ]
+  },
+  {
+    "order_id": 87,
+    "customer_id": 41,
+    "order_date": "2025-06-12",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Chennai",
+      "pincode": "470116"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 3,
+        "unit_price": 30412
+      }
+    ]
+  },
+  {
+    "order_id": 88,
+    "customer_id": 22,
+    "order_date": "2025-04-05",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "590781"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 4,
+        "unit_price": 36053
+      },
+      {
+        "product": "Monitor",
+        "quantity": 3,
+        "unit_price": 98528
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 4,
+        "unit_price": 54762
+      }
+    ]
+  },
+  {
+    "order_id": 89,
+    "customer_id": 90,
+    "order_date": "2025-02-10",
+    "status": "SHIPPED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "504083"
+    },
+    "items": [
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 98001
+      }
+    ]
+  },
+  {
+    "order_id": 90,
+    "customer_id": 71,
+    "order_date": "2025-01-28",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "504074"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 1,
+        "unit_price": 62521
+      }
+    ]
+  },
+  {
+    "order_id": 91,
+    "customer_id": 30,
+    "order_date": "2025-05-07",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Hyderabad",
+      "pincode": "564228"
+    },
+    "items": [
+      {
+        "product": "Tablet",
+        "quantity": 1,
+        "unit_price": 14122
+      },
+      {
+        "product": "Headphones",
+        "quantity": 2,
+        "unit_price": 11550
+      },
+      {
+        "product": "Mouse",
+        "quantity": 4,
+        "unit_price": 41049
+      }
+    ]
+  },
+  {
+    "order_id": 92,
+    "customer_id": 5,
+    "order_date": "2025-12-06",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "485249"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "quantity": 2,
+        "unit_price": 4244
+      }
+    ]
+  },
+  {
+    "order_id": 93,
+    "customer_id": 70,
+    "order_date": "2025-04-01",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Chennai",
+      "pincode": "596322"
+    },
+    "items": [
+      {
+        "product": "Monitor",
+        "quantity": 3,
+        "unit_price": 72398
+      },
+      {
+        "product": "Monitor",
+        "quantity": 2,
+        "unit_price": 91938
+      }
+    ]
+  },
+  {
+    "order_id": 94,
+    "customer_id": 57,
+    "order_date": "2025-06-07",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Hyderabad",
+      "pincode": "468106"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 4,
+        "unit_price": 69110
+      },
+      {
+        "product": "Mouse",
+        "quantity": 3,
+        "unit_price": 46004
+      },
+      {
+        "product": "Monitor",
+        "quantity": 2,
+        "unit_price": 12238
+      }
+    ]
+  },
+  {
+    "order_id": 95,
+    "customer_id": 67,
+    "order_date": "2025-03-11",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "522997"
+    },
+    "items": [
+      {
+        "product": "Headphones",
+        "quantity": 1,
+        "unit_price": 512
+      }
+    ]
+  },
+  {
+    "order_id": 96,
+    "customer_id": 77,
+    "order_date": "2025-04-29",
+    "status": "PLACED",
+    "shipping": {
+      "city": "Delhi",
+      "pincode": "497948"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "quantity": 4,
+        "unit_price": 99521
+      },
+      {
+        "product": "Monitor",
+        "quantity": 3,
+        "unit_price": 1697
+      },
+      {
+        "product": "Tablet",
+        "quantity": 4,
+        "unit_price": 38893
+      }
+    ]
+  },
+  {
+    "order_id": 97,
+    "customer_id": 32,
+    "order_date": "2025-03-25",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Nashik",
+      "pincode": "499184"
+    },
+    "items": [
+      {
+        "product": "Monitor",
+        "quantity": 4,
+        "unit_price": 52240
+      }
+    ]
+  },
+  {
+    "order_id": 98,
+    "customer_id": 81,
+    "order_date": "2025-05-03",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "569989"
+    },
+    "items": [
+      {
+        "product": "Headphones",
+        "quantity": 1,
+        "unit_price": 55843
+      }
+    ]
+  },
+  {
+    "order_id": 99,
+    "customer_id": 82,
+    "order_date": "2025-08-22",
+    "status": "CANCELLED",
+    "shipping": {
+      "city": "Bengaluru",
+      "pincode": "583624"
+    },
+    "items": [
+      {
+        "product": "Keyboard",
+        "quantity": 3,
+        "unit_price": 54620
+      },
+      {
+        "product": "Phone",
+        "quantity": 1,
+        "unit_price": 24408
+      },
+      {
+        "product": "Phone",
+        "quantity": 3,
+        "unit_price": 14964
+      }
+    ]
+  },
+  {
+    "order_id": 100,
+    "customer_id": 14,
+    "order_date": "2025-05-25",
+    "status": "DELIVERED",
+    "shipping": {
+      "city": "Mumbai",
+      "pincode": "587484"
+    },
+    "items": [
+      {
+        "product": "Monitor",
+        "quantity": 2,
+        "unit_price": 42527
+      },
+      {
+        "product": "Laptop",
+        "quantity": 2,
+        "unit_price": 7005
+      },
+      {
+        "product": "Keyboard",
+        "quantity": 1,
+        "unit_price": 24871
+      }
+    ]
+  }
+]
