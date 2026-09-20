@@ -1,18 +1,29 @@
 -- ⚫ LEVEL 9 — Date & Time SQL
-
 -- These are particularly useful in Data Engineering interviews.
 
 -- Q61 Find the number of orders placed in each year.
+SELECT YEAR(order_date),COUNT(*) FROM orders
+GROUP BY YEAR(order_date);
 
 -- Q62 Find the number of orders placed in each month.
+SELECT MONTHNAME(order_date),COUNT(*) FROM orders
+GROUP BY MONTHNAME(order_date);
 
 -- Q63 Calculate monthly revenue.
 -- Output:
 -- year
 -- month
 -- revenue
+SELECT YEAR(order_date),MONTHNAME(order_date),SUM(order_amount) FROM orders
+WHERE order_status = "Delivered"
+GROUP BY YEAR(order_date),MONTHNAME(order_date);
 
 -- Q64 Find the month with the highest revenue.
+SELECT YEAR(order_date),MONTH(order_date),SUM(order_amount) FROM orders
+WHERE order_status = "Delivered"
+GROUP BY YEAR(order_date),MONTH(order_date)
+ORDER BY SUM(order_amount) DESC
+LIMIT 1;
 
 -- Q65 Find customers who signed up in 2024.
 
