@@ -1,8 +1,8 @@
 -- ⚫ LEVEL 9 — Date & Time SQL
-
 -- These are particularly useful in Data Engineering interviews.
 
 -- Q61 Find the number of orders placed in each year.
+SELECT * FROM orders;
 
 -- Q62 Find the number of orders placed in each month.
 
