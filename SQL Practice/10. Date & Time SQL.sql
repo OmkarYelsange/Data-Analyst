@@ -2,7 +2,8 @@
 -- These are particularly useful in Data Engineering interviews.
 
 -- Q61 Find the number of orders placed in each year.
-SELECT * FROM orders;
+SELECT YEAR(order_date),COUNT(*) FROM orders
+GROUP BY YEAR(order_date);
 
 -- Q62 Find the number of orders placed in each month.
 
