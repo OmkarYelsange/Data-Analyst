@@ -19,6 +19,11 @@ WHERE order_status = "Delivered"
 GROUP BY YEAR(order_date),MONTHNAME(order_date);
 
 -- Q64 Find the month with the highest revenue.
+SELECT YEAR(order_date),MONTH(order_date),SUM(order_amount) FROM orders
+WHERE order_status = "Delivered"
+GROUP BY YEAR(order_date),MONTH(order_date)
+ORDER BY SUM(order_amount) DESC
+LIMIT 1;
 
 -- Q65 Find customers who signed up in 2024.
 
