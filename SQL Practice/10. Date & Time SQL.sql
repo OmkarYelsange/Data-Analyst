@@ -26,6 +26,9 @@ ORDER BY SUM(order_amount) DESC
 LIMIT 1;
 
 -- Q65 Find customers who signed up in 2024.
+SELECT * FROM customers
+WHERE YEAR(signup_date) = 2024
+ORDER BY signup_date ASC;
 
 -- Q66 Find orders placed on weekends.
 
