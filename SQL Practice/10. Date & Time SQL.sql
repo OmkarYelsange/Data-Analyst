@@ -6,6 +6,8 @@ SELECT YEAR(order_date),COUNT(*) FROM orders
 GROUP BY YEAR(order_date);
 
 -- Q62 Find the number of orders placed in each month.
+SELECT MONTHNAME(order_date),COUNT(*) FROM orders
+GROUP BY MONTHNAME(order_date);
 
 -- Q63 Calculate monthly revenue.
 -- Output:
