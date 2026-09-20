@@ -31,6 +31,8 @@ WHERE YEAR(signup_date) = 2024
 ORDER BY signup_date ASC;
 
 -- Q66 Find orders placed on weekends.
+SELECT * FROM orders
+WHERE DAYNAME(order_date) = "Saturday" OR "Sunday";
 
 -- Q67 Find the number of days between customer signup and their first order.
 
