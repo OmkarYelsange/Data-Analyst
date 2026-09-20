@@ -14,6 +14,9 @@ GROUP BY MONTHNAME(order_date);
 -- year
 -- month
 -- revenue
+SELECT YEAR(order_date),MONTHNAME(order_date),SUM(order_amount) FROM orders
+WHERE order_status = "Delivered"
+GROUP BY YEAR(order_date),MONTHNAME(order_date);
 
 -- Q64 Find the month with the highest revenue.
 
