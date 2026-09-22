@@ -51,4 +51,5 @@
 -- Use:
 -- SUM() OVER(PARTITION BY ...)
 
+
 -- Q60 Find the top 3 customers by total spending using a window function.
