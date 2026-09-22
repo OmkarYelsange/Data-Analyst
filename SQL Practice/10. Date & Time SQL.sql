@@ -49,5 +49,9 @@ HAVING DifDays < 31
 ORDER BY DifDays ASC;
 
 -- Q69 Find customers who placed an order in 2024 but did not place any order in 2025.
+SELECT customer_id,order_date FROM orders
+WHERE YEAR(order_date) != 2025;
 
 -- Q70 Find customers who placed orders in both 2024 and 2025.
+SELECT customer_id,order_date FROM orders
+WHERE YEAR(order_date) = 2024 AND YEAR(order_date) = 2025;
