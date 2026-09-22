@@ -10,6 +10,7 @@
 -- Customer 5 | Order 10 | 2024-05-18 | 1
 -- Customer 5 | Order 25 | 2025-01-07 | 2
 
+
 -- Q52 Find each customer's first order.
 -- Use:
 -- ROW_NUMBER()
