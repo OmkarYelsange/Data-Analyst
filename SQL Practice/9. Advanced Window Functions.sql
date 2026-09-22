@@ -16,6 +16,7 @@
 -- ROW_NUMBER()
 -- or another appropriate window technique.
 
+
 -- Q53 Find each customer's latest order.
 
 -- Q54 For each customer, show:
