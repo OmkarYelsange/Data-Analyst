@@ -35,6 +35,10 @@ SELECT * FROM orders
 WHERE DAYNAME(order_date) = "Saturday" OR "Sunday";
 
 -- Q67 Find the number of days between customer signup and their first order.
+SELECT DATEDIFF(o.order_date,c.signup_date) FROM customers AS c
+LEFT JOIN orders AS o
+ON c.customer_id = o.customer_id
+WHERE o.order_date > c.signup_date;
 
 -- Q68 Find customers whose first order happened within 30 days of signup.
 
