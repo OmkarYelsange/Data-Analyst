@@ -38,8 +38,10 @@
 
 -- Q57 Calculate cumulative revenue for each customer.
 
+
 -- Q58 Calculate the average order amount for each customer using a window function.
 -- Do not use GROUP BY.
+
 
 -- Q59 For every order, display:
 -- order_id
