@@ -62,6 +62,6 @@ JOIN OrderMetrics AS om
 ON cd.customer_id = om.customer_id;
 
 SELECT * FROM customers;
-SELECT * FROM products;
+
 
 
