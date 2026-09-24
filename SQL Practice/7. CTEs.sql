@@ -25,19 +25,21 @@ ORDER BY total_amount DESC
 LIMIT 3;
 
 -- Q44 Using a CTE, find the customers who have placed at least two orders.
-WITH CustomerAtLeast2Orders AS (
+WITH CustomerOrderCounts AS (
 	SELECT customer_id,
-		SUM(order_id) 
+		COUNT(order_id) AS order_count
 	FROM orders
     GROUP BY customer_id
 )
-SELECT * FROM CustomerAtLeast2Orders
-WHERE COUNT(order_id) <= 2;
+SELECT customer_id,order_count FROM CustomerOrderCounts
+WHERE order_count >= 2;
 
 -- Q45 Using multiple CTEs, calculate:
 -- customer_name
 -- total_orders
 -- total_spent
 -- average_order_value
+
+
 
 SELECT * FROM products;
