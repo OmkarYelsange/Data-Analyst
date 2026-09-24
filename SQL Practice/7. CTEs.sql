@@ -60,8 +60,3 @@ SELECT cd.customer_id,
 FROM CustomerDetails AS cd
 JOIN OrderMetrics AS om
 ON cd.customer_id = om.customer_id;
-
-
-
-
-
