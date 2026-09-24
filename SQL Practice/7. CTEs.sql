@@ -25,7 +25,14 @@ ORDER BY total_amount DESC
 LIMIT 3;
 
 -- Q44 Using a CTE, find the customers who have placed at least two orders.
-
+WITH CustomerAtLeast2Orders AS (
+	SELECT customer_id,
+		SUM(order_id) 
+	FROM orders
+    GROUP BY customer_id
+)
+SELECT * FROM CustomerAtLeast2Orders
+WHERE COUNT(order_id) <= 2;
 
 -- Q45 Using multiple CTEs, calculate:
 -- customer_name
