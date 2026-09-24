@@ -15,12 +15,24 @@
 -- Q46 Rank all products based on price from highest to lowest.
 -- Use:
 -- RANK()
+SELECT *, 
+	RANK() OVER (ORDER BY price DESC) AS price_rank
+FROM products;
 
 -- Q47 Rank products within each category based on price.
 -- Expected concept: 
 -- PARTITION BY category
+SELECT *, 
+	RANK() OVER (PARTITION BY category
+    ORDER BY price DESC ) AS price_rank
+FROM products;
 
 -- Q48 Find the highest-priced product in every category using a window function.
+SELECT *, 
+	RANK() OVER (PARTITION BY category
+    ORDER BY price DESC ) AS price_rank
+FROM products
+WHERE price_rank = 1;
 
 -- Q49 Find the second-highest-priced product in every category.
 -- This is an excellent interview question.
