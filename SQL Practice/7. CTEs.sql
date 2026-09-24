@@ -39,7 +39,32 @@ WHERE order_count >= 2;
 -- total_orders
 -- total_spent
 -- average_order_value
+WITH OrderMetrics AS (
+	SELECT customer_id,
+		COUNT(order_id) AS total_orders,
+		SUM(order_amount) AS total_spent,
+		AVG(order_amount) AS avg_order_value
+    FROM orders
+    GROUP BY customer_id    
+),
+CustomerDetails AS (
+	SELECT customer_id,
+		customer_name
+	FROM customers
+)
+SELECT cd.customer_id,
+	cd.customer_name,
+    om.total_orders,
+    om.total_spent,
+    om.avg_order_value
+FROM CustomerDetails AS cd
+JOIN OrderMetrics AS om
+ON cd.customer_id = om.customer_id;
 
+SELECT * FROM customers;
+SELECT * FROM products;
+SELECT * FROM orders;
+SELECT * FROM order_items;
 
 
 SELECT * FROM products;
