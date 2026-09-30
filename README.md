@@ -860,9 +860,7 @@ Understand → Analyze → Visualize → Explain → Improve
 
 If this repository helps you learn or gives you useful ideas for your own analytics journey:
 
-**⭐ Star the repository**
-
-**🍴 Fork the repository**
+**⭐ Star the repository**
 
 **💬 Feedback and suggestions are welcome**
 
